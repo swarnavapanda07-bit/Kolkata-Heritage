@@ -62,7 +62,16 @@ places = {
         "best_time": "Winter months",
         "latitude": 22.6322,
         "longitude": 88.3556
-    }
+    },
+
+    "Rabindranath-Tagore": {
+        "name": "Rabindranath Tagore'",
+        "description": "Rabindranath Tagore was a Bengali polymath who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism in the late 19th and early 20th centuries.",
+        "history": "He became the first non-European to win the Nobel Prize in Literature in 1913.",
+        "location": "Jorasanko Thakur Bari, Kolkata",
+        "latitude": 22.5850,
+        "longitude": 88.3590
+   }
 }
 
 
